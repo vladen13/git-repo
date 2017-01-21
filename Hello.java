@@ -4,5 +4,6 @@ public class Hello{
 		System.out.print("Hello everyone!");
 		System.out.print("Wazzup kid?");
 		System.out.print("Hello my dear friends!");
+		System.out.print("hrukai");
 	}
 }
